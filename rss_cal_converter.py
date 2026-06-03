@@ -60,5 +60,5 @@ def create_ics(xml_file, ics_file):
     print("wrote to", ics_file)
 
 # Use the function
-create_ics('events_2025_26.rss', 'psoevents_2025_26.ics')
+create_ics('events_2026_27.xml', 'psoevents_2026_27.ics')
 
